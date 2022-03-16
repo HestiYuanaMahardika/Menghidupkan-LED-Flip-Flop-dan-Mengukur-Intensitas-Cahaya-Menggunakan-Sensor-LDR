@@ -1,1 +1,1 @@
-# Menghidupkan-LED-Flip-Flop-dan-Mengukur-Intensitas-Cahaya-Menggunakan-Sensor-LDR
+# LED Flip-Flop and Measuring Light Intensity From LDR
